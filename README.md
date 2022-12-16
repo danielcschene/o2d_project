@@ -1,2 +1,2 @@
 # o2d_project
-This project description
+Final project code for Objects to Data course
